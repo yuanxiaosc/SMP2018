@@ -35,3 +35,9 @@ epochs = 20
 3. 使用预先训练好的词向量
 4. 改变模型结构
 5. 改变模型超参数
+
+## 资源说明
+
++ [SMP2018_EDA_and_Baseline_Model.ipynb](SMP2018_EDA_and_Baseline_Model.ipynb) 是完整的数据分析和模型构建过程的代码
++ [app.py](用户意图分类APP/app.py) 是根据训练的模型构建的 用户意图分类应用
++ 其它资源见名知意
